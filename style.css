@@ -1,0 +1,14 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+.left img{
+    height: 13vh;
+    padding-left: 8rem;
+}
+
+.right .btn{
+    border-radius: 50%;
+    border-color: black;
+}
