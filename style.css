@@ -12,3 +12,254 @@
     border-radius: 50%;
     border-color: black;
 }
+
+.icon{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+#solution h1{
+    font-style: italic;
+}
+
+.anchor{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.first{
+    background-image: url('./photodune-448186-old-law-building-m-400x300.jpg');
+    height: 25vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.first p{
+    color: white;
+    z-index: 3;
+    font-weight: 600;
+}
+
+.first::after{
+    content: ' ';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(255, 0, 0, 0.619);   
+}
+
+.second{
+    background-image: url('./photodune-824920-bodywork-damage-m-400x300.jpg');
+    height: 25vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.second p{
+    color: white;
+    z-index: 3;
+    font-weight: 600;
+}
+
+.second::after{
+    content: ' ';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(255, 0, 0, 0.619);
+    
+}
+
+.third{
+    background-image: url('./Fotolia_39975530_Subscription_Monthly_XXL-400x300.jpg');
+    height: 25vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.third p{
+    color: white;
+    z-index: 3;
+    font-weight: 600;
+}
+
+.third::after{
+    content: ' ';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(255, 0, 0, 0.619);
+    
+}
+
+.fourth{
+    background-image: url('./photodune-10847259-family-sitting-on-sofa-with-parents-arguing-m-400x300.jpg');
+    height: 25vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fourth p{
+    color: white;
+    z-index: 3;
+    font-weight: 600;
+}
+
+.fourth::after{
+    content: ' ';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(255, 0, 0, 0.619);
+    
+}
+
+.five{
+    background-image: url('./photodune-3332253-man-working-with-modern-devices-m-400x300.jpg');
+    height: 25vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.five p{
+    color: white;
+    z-index: 3;
+    font-weight: 600;
+}
+
+.five::after{
+    content: ' ';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(255, 0, 0, 0.619);
+    
+}
+
+.six{
+    background-image: url('./photodune-3290449-concierges-holding-the-cart-and-posing-m-400x300.jpg');
+    height: 25vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.six p{
+    color: white;
+    z-index: 3;
+    font-weight: 600;
+}
+
+.six::after{
+    content: ' ';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(255, 0, 0, 0.619);
+}
+
+.seven{
+    background-image: url('./Fotolia_3104144_Subscription_Monthly_XXL-400x300.jpg');
+    height: 25vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.seven p{
+    color: white;
+    z-index: 3;
+    font-weight: 600;
+}
+
+.seven::after{
+    content: ' ';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(255, 0, 0, 0.589); 
+}
+
+.eight{
+    background-image: url('./photodune-2277503-businessman-in-front-of-bookcase-m-400x300.jpg');
+    height: 25vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.eight p{
+    color: white;
+    z-index: 3;
+    font-weight: 600;
+}
+
+.eight::after{
+    content: ' ';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(255, 0, 0, 0.619);
+    
+}
+
+#form{
+    background-image: url('./hand-g646426d5a_1920.jpg');
+    height: 90vh;
+}
+
+#footer{
+    background-color: black;
+    margin-top: 2rem;
+}
+
+footer{
+    background-color: rgba(0, 0, 0, 0.9);
+}
