@@ -263,3 +263,16 @@
 footer{
     background-color: rgba(0, 0, 0, 0.9);
 }
+
+@media screen and (max-width:768px) {
+    .right a{
+        display: none;
+    }
+    .right .btn{
+        display: none;
+    }
+
+    #form .col-md-6 img{
+        display: none;
+    }
+}
